@@ -1,0 +1,234 @@
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-Bold.eot');
+    src: url('../fonts/TTNorms-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-Bold.woff2') format('woff2'),
+        url('../fonts/TTNorms-Bold.woff') format('woff'),
+        url('../fonts/TTNorms-Bold.ttf') format('truetype'),
+        url('../fonts/TTNorms-Bold.svg#TTNorms-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-BlackItalic.eot');
+    src: url('../fonts/TTNorms-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-BlackItalic.woff2') format('woff2'),
+        url('../fonts/TTNorms-BlackItalic.woff') format('woff'),
+        url('../fonts/TTNorms-BlackItalic.ttf') format('truetype'),
+        url('../fonts/TTNorms-BlackItalic.svg#TTNorms-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-BoldItalic.eot');
+    src: url('../fonts/TTNorms-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-BoldItalic.woff2') format('woff2'),
+        url('../fonts/TTNorms-BoldItalic.woff') format('woff'),
+        url('../fonts/TTNorms-BoldItalic.ttf') format('truetype'),
+        url('../fonts/TTNorms-BoldItalic.svg#TTNorms-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-ExtraBold.eot');
+    src: url('../fonts/TTNorms-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-ExtraBold.woff2') format('woff2'),
+        url('../fonts/TTNorms-ExtraBold.woff') format('woff'),
+        url('../fonts/TTNorms-ExtraBold.ttf') format('truetype'),
+        url('../fonts/TTNorms-ExtraBold.svg#TTNorms-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-Black.eot');
+    src: url('../fonts/TTNorms-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-Black.woff2') format('woff2'),
+        url('../fonts/TTNorms-Black.woff') format('woff'),
+        url('../fonts/TTNorms-Black.ttf') format('truetype'),
+        url('../fonts/TTNorms-Black.svg#TTNorms-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-ExtraLightItalic.eot');
+    src: url('../fonts/TTNorms-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-ExtraLightItalic.woff2') format('woff2'),
+        url('../fonts/TTNorms-ExtraLightItalic.woff') format('woff'),
+        url('../fonts/TTNorms-ExtraLightItalic.ttf') format('truetype'),
+        url('../fonts/TTNorms-ExtraLightItalic.svg#TTNorms-ExtraLightItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-Heavy.eot');
+    src: url('../fonts/TTNorms-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-Heavy.woff2') format('woff2'),
+        url('../fonts/TTNorms-Heavy.woff') format('woff'),
+        url('../fonts/TTNorms-Heavy.ttf') format('truetype'),
+        url('../fonts/TTNorms-Heavy.svg#TTNorms-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-ExtraLight.eot');
+    src: url('../fonts/TTNorms-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-ExtraLight.woff2') format('woff2'),
+        url('../fonts/TTNorms-ExtraLight.woff') format('woff'),
+        url('../fonts/TTNorms-ExtraLight.ttf') format('truetype'),
+        url('../fonts/TTNorms-ExtraLight.svg#TTNorms-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-ExtraBoldItalic.eot');
+    src: url('../fonts/TTNorms-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-ExtraBoldItalic.woff2') format('woff2'),
+        url('../fonts/TTNorms-ExtraBoldItalic.woff') format('woff'),
+        url('../fonts/TTNorms-ExtraBoldItalic.ttf') format('truetype'),
+        url('../fonts/TTNorms-ExtraBoldItalic.svg#TTNorms-ExtraBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-Italic.eot');
+    src: url('../fonts/TTNorms-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-Italic.woff2') format('woff2'),
+        url('../fonts/TTNorms-Italic.woff') format('woff'),
+        url('../fonts/TTNorms-Italic.ttf') format('truetype'),
+        url('../fonts/TTNorms-Italic.svg#TTNorms-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-Light.eot');
+    src: url('../fonts/TTNorms-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-Light.woff2') format('woff2'),
+        url('../fonts/TTNorms-Light.woff') format('woff'),
+        url('../fonts/TTNorms-Light.ttf') format('truetype'),
+        url('../fonts/TTNorms-Light.svg#TTNorms-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-HeavyItalic.eot');
+    src: url('../fonts/TTNorms-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-HeavyItalic.woff2') format('woff2'),
+        url('../fonts/TTNorms-HeavyItalic.woff') format('woff'),
+        url('../fonts/TTNorms-HeavyItalic.ttf') format('truetype'),
+        url('../fonts/TTNorms-HeavyItalic.svg#TTNorms-HeavyItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-MediumItalic.eot');
+    src: url('../fonts/TTNorms-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-MediumItalic.woff2') format('woff2'),
+        url('../fonts/TTNorms-MediumItalic.woff') format('woff'),
+        url('../fonts/TTNorms-MediumItalic.ttf') format('truetype'),
+        url('../fonts/TTNorms-MediumItalic.svg#TTNorms-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-LightItalic.eot');
+    src: url('../fonts/TTNorms-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-LightItalic.woff2') format('woff2'),
+        url('../fonts/TTNorms-LightItalic.woff') format('woff'),
+        url('../fonts/TTNorms-LightItalic.ttf') format('truetype'),
+        url('../fonts/TTNorms-LightItalic.svg#TTNorms-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-Medium.eot');
+    src: url('../fonts/TTNorms-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-Medium.woff2') format('woff2'),
+        url('../fonts/TTNorms-Medium.woff') format('woff'),
+        url('../fonts/TTNorms-Medium.ttf') format('truetype'),
+        url('../fonts/TTNorms-Medium.svg#TTNorms-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-Regular.eot');
+    src: url('../fonts/TTNorms-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-Regular.woff2') format('woff2'),
+        url('../fonts/TTNorms-Regular.woff') format('woff'),
+        url('../fonts/TTNorms-Regular.ttf') format('truetype'),
+        url('../fonts/TTNorms-Regular.svg#TTNorms-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-ThinItalic.eot');
+    src: url('../fonts/TTNorms-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-ThinItalic.woff2') format('woff2'),
+        url('../fonts/TTNorms-ThinItalic.woff') format('woff'),
+        url('../fonts/TTNorms-ThinItalic.ttf') format('truetype'),
+        url('../fonts/TTNorms-ThinItalic.svg#TTNorms-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Norms';
+    src: url('../fonts/TTNorms-Thin.eot');
+    src: url('../fonts/TTNorms-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TTNorms-Thin.woff2') format('woff2'),
+        url('../fonts/TTNorms-Thin.woff') format('woff'),
+        url('../fonts/TTNorms-Thin.ttf') format('truetype'),
+        url('../fonts/TTNorms-Thin.svg#TTNorms-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
