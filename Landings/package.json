@@ -2,9 +2,9 @@
   "name": "landings",
   "version": "0.0.0",
   "private": true,
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "npm start"
   },
   "engines": {
     "node": "10.x"
