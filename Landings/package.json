@@ -2,8 +2,12 @@
   "name": "landings",
   "version": "0.0.0",
   "private": true,
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "10.x"
   },
   "dependencies": {
     "ajax": "^0.0.4",
