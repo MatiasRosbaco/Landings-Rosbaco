@@ -91,7 +91,8 @@ $.post({
   type: "POST",
   headers:{"content-type":"application/json"},
   dataType: 'json',
-  data: JSON.stringify(data)
+  data: JSON.stringify(data),
+  contentType: 'application/json; charset=utf-8' 
 })
 .done((data, status) => {
     $('.loading').hide();
@@ -99,6 +100,5 @@ $.post({
 
 
 });
-
 
 });
